@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently portfolio project <br> I’m currently learning ...js<br> I’m currently doing practice in js<br>After learning js i go for Angular
+ I’m currently Working on portfolio project <br> I’m currently learning ...js<br> I’m currently doing practice in js<br>After learning js i go for Angular
 
 
 ## 🌐 Socials:
