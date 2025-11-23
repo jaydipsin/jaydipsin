@@ -1,78 +1,46 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jaydeep+%F0%9F%87%AE%F0%9F%87%B3;Passionate+Frontend+Developer;Aspiring+Full-Stack+Dev+%F0%9F%9A%80" alt="Typing SVG" />
-
-  <p>
-    <em>
-      Started my coding journey on <strong>March 21, 2024</strong> with just HTML<br>
-      Now building modern web apps with Angular, TypeScript & exploring the backend world! 🚀
-    </em>
-  </p>
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=jaydipsin&label=Profile+Views+%F0%9F%91%80&color=0e75b6&style=flat-square" alt="Profile views" />
+  <h1 align="center">Hi, I'm Jaydeep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/></h1>
   
-  <br><br>
-
-  <!-- Current Focus -->
-  <div>
-    <img src="https://img.shields.io/badge/Currently_Working_On-TypeScript_%2B_Angular-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Learning-Backend_%2B_Node.js-10b981?style=for-the-badge&logo=node.js&logoColor=white" />
-  </div>
+  ### 🚀 The < 2 Year Full-Stack Transformation
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E34F26&center=true&vCenter=true&width=600&lines=Frontend+Addict+%F0%9F%92%BB;Ionic+%2B+Angular+Ninja+%F0%9F%A4%B8;Backend+Explorer+%F0%9F%95%B5%EF%B8%8F" alt="Typing SVG" />
 </div>
 
-<br>
+---
 
-### 🌟 About Me
-- 🔭 Building real-world projects with **Angular, **NgRx + Ionic** (mobile + web)
-- 🌱 Currently diving deep into  Socket.IO, Node.js & Express**
-- 👨‍💻 Frontend is my home, but **Full-Stack** is the dream
-- 💬 Ask me anything about **JavaScript, TypeScript, Angular, or Ionic**
-- 📫 Reach me: **jaydipsinghchouhan93@gmail.com**
+### ⚡ About Me
+I don't just write code; I build entire ecosystems. 
 
-<br>
+- **Start Date:** March 21, 2024 (started with HTML)
+- **Current Status:** Building complex apps with **Angular, NgRx, and Node.js**
+- **Philosophy:** "Frontend is my home, but Full-Stack is the destination."
 
-### 🤝 Connect with Me
+I specialize in the **Angular ecosystem**. While others are debating frameworks, I'm building production-ready mobile and web apps with **Ionic** and managing complex states with **NgRx**.
+
+<br/>
+
+### 💻 Tech Stack
 <p align="center">
-  <a href="https://instagram.com/btwitjaydip" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ts,angular,ionic,ngrx,rxjs,nodejs,express,socketio,mongodb,git&perline=5&theme=dark" />
+</p>
+
+<br/>
+
+### 📈 The Numbers
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydipsin&theme=radical&hide_border=true&background=0D1117"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaydipsin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true"/>
+</div>
+
+<br/>
+
+### 📫 Connect
+<div align="center">
+  <a href="https://instagram.com/btwitjaydip">
+    <img src="https://img.shields.io/badge/Insta-Gram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:jaydipsinghchouhan93@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<br>
-
-### ⚡ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,ionic,ngrx,rxjs,bootstrap,tailwind,sass,git,github,vscode&perline=8" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=materialui,socketio,nodejs,express,mongodb,postman&perline=8" />
-  </a>
-</p>
-
-<br>
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaydipsin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydipsin&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydipsin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <p><i>"From zero to building full-stack apps in under 2 years — still just getting started!"</i> 🚀</p>
 </div>
