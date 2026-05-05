@@ -9,7 +9,7 @@ const jaydeep = {
     name: "Jaydeep Singh",
     role: "Full Stack Developer",
     currentMission: "Building Learning Buddy",
-    location: "Surat, Gujarat 🇮🇳",
+    location: "Ahmedabad, Gujarat 🇮🇳",
     
     code: ["TypeScript", "JavaScript", "C++", "C"],
     technologies: {
