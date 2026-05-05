@@ -1,25 +1,140 @@
-<h1 align="center">Hi 👋, I'm Jaydeep singh</h1>
-<h3 align="center">A passionate developer</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaydipsin" alt="jaydipsin" /></a> </p>
+# 🚀 `$ whoami`
 
-- 🔭 I’m currently working on [Learning Buddy](Loading...)
+</div>
 
-- 🌱 I’m currently learning **Node,Express,MongoDB**
+```javascript
+const jaydeep = {
+    name: "Jaydeep Singh",
+    role: "Full Stack Developer",
+    currentMission: "Building Learning Buddy",
+    location: "Surat, Gujarat 🇮🇳",
+    
+    code: ["TypeScript", "JavaScript", "C++", "C"],
+    technologies: {
+        frontEnd: {
+            frameworks: ["Angular", "Ionic"],
+            styling: ["SASS", "TailwindCSS", "Bootstrap", "CSS3"],
+            design: ["Figma"]
+        },
+        backEnd: {
+            runtime: ["Node.js"],
+            frameworks: ["Express"],
+            databases: ["MongoDB", "Firebase"]
+        },
+        devOps: ["Git", "Postman"],
+        currentlyExploring: ["MERN Stack", "RESTful APIs", "Database Design"]
+    },
+    
+    askMeAbout: ["Angular", "Frontend Architecture", "TypeScript", "JavaScript Quirks"],
+    
+    funFact: "I debug with console.log and I'm not ashamed 😎"
+};
+```
 
-- 💬 Ask me about **Angular , JS ,TS Frontend concepts**
+<div align="center">
 
-- 📫 How to reach me **jaydipsinghchouhan93@gmail.com**
+## 💭 `// Current Status`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display:'flex'"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+```bash
+jaydeep@dev:~$ cat current_status.sh
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydipsin&show_icons=true&locale=en&layout=compact" alt="jaydipsin" /></p>
+🔨 Building Learning Buddy
+📚 Deep diving into Node.js + Express + MongoDB
+💡 Exploring the backend rabbit hole
+☕ Coffee-driven development in progress...
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydipsin&show_icons=true&locale=en" alt="jaydipsin" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydipsin&" alt="jaydipsin" /></p>
+<div align="center">
+
+## 🛠️ `Tech Arsenal`
+
+</div>
+
+<div align="center">
+
+### Frontend Fortress 🎨
+
+<img src="https://skillicons.dev/icons?i=angular,html,css,js,ts,bootstrap,tailwind,sass,figma,ionic" />
+
+### Backend Battalion ⚙️
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,cpp,c" />
+
+### Tools & Weapons 🔧
+
+<img src="https://skillicons.dev/icons?i=git,postman,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 `Battle Stats`
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaydipsin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydipsin&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydipsin&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 `Achievement Unlocked`
+
+<img src="https://github-profile-trophy.vercel.app/?username=jaydipsin&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 `Let's Connect`
+
+**Got a question about Angular? Frontend architecture? Or just want to talk code?**
+
+📧 **Reach me:** jaydipsinghchouhan93@gmail.com
+
+</div>
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════╗
+║  "Code is like humor.                     ║
+║   When you have to explain it,           ║
+║   it's bad."                              ║
+║                    - Cory House           ║
+╔═══════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+---
+
+**`⭐ Star my repos if you find them useful!`**
+
+![Visitor Count](https://profile-counter.glitch.me/jaydipsin/count.svg)
+
+---
+
+</div>
+
+<div align="center">
+
+*"Building the web, one commit at a time."* ✨
+
+</div>
