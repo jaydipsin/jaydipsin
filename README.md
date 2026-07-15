@@ -31,13 +31,13 @@
 ### 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,npm,cpp,c&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,cpp,c&perline=10" />
 </p>
 
 ### ✨ Other Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
@@ -92,18 +92,9 @@
   <a href="https://github.com/jaydipsin">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
-  <!-- Replace with your actual LinkedIn URL -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/jaydipsin/jaydipsin/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -114,6 +105,6 @@
 
 > **"Consistency compounds. Excuses do not."**
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ **If you like my work, consider giving a ⭐ to my repositories!**
 
 </div>
